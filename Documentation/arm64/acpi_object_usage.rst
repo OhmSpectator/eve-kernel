@@ -1,5 +1,5 @@
 ===========
-ACPI Tables
+ACPI Tables!
 ===========
 
 The expectations of individual ACPI tables are discussed in the list that
